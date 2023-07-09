@@ -19,7 +19,7 @@
 
 <br> <br>                                    
 
-## Some of my work:
+## Some of my projects:
 * [Recipe App](https://foodies-4gbb.onrender.com/)
 * [Warbler](https://warbler-jeuc.onrender.com/)
 * [Connect Four](https://roaring-starburst-e84685.netlify.app/)
