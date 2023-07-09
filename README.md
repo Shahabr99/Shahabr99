@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [recipe search app](https://foodies-4gbb.onrender.com/)
 
-- 🌱 I’m currently learning **Express.js,and React**
+- 🌱 I’m currently learning **Express.js, and React**
 
 - 🤝 I’m looking for help with **Finding an entry-level job**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shahabrohani178@gmail.com**
 
-- ⚡ Fun fact **I love playing video games.**      
+- ⚡ Fun fact **I'm a competitive gamer.**      
 
 <br> <br>                                    
 
