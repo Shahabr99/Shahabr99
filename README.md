@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG83cXh0czdoa2pzZGhpcHhyeXliM2l6eHpka2l1MHI5NjF5dGUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on [recipe search app](https://foodies-4gbb.onrender.com/)
+- 🔭 I’m currently working on new projectr.
 
 - 🌱 I’m currently learning **Express.js, and React**
 
