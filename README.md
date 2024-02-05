@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on a new project.
 
-- 🌱 I’m currently learning **Express.js, and React**
-
-- 🤝 I’m looking for help with **Finding an entry-level job**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, python, ...**
 
